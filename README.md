@@ -1,5 +1,5 @@
 # 2021 Cusp Capstone Project
-## COVID-19 Closure Impacts on Food-related, Non-chain, Businesses in Selected New York City Communities
+## COVID-19 Closure Impacts on Food-related, Non-chain, Businesses in Select New York City Communities
 
 Ari Lewenstein, Shu Wang, Haochen Xing
 
